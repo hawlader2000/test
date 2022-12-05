@@ -7,7 +7,9 @@ const greeting=(props)=>{
 }
 
 const new_greeting=(props)=>{
-return <h1>Please Sign IN</h1>;
+return (<div>
+  <h1>Hello World</h1>
+</div>)
 }
 
 const greeting=(props){
